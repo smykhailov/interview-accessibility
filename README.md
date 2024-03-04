@@ -1,2 +1,4 @@
-# interview-accessibility
-This is template for the interview. Un optimal set of classes as a starting point for the real world paroblem to solve during interview.
+# Interview Accessibility
+
+This is template for the interview. An un optimal set of classes as a starting point for 
+the real world problem to solve during interview.
